@@ -33,11 +33,11 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Prompt Engineering
 
-- [PromptBase](https://promptbase.com/)
-- [PromptHero](https://prompthero.com/)
-- [Prompt Search](https://www.ptsearch.info/tags/list/)
+- [PromptBase](https://promptbase.com/) - Marketplace of the prompt engineering
+- [PromptHero](https://prompthero.com/) - The website for prompt engineering
+- [Prompt Search](https://www.ptsearch.info/tags/list/) - The search engine for the prompt engineering
 - [Prompt Perfect](https://promptperfect.jina.ai/) - Auto Prompt Optimizer
-- [Learn Prompting](https://learnprompting.org/)
+- [Learn Prompting](https://learnprompting.org/) - The tutorial website for the prompt engineering
 - [Blog: Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 - [Blog: Prompt Leaking](https://learnprompting.org/docs/prompt_hacking/leaking)
 - [Paper: Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
@@ -83,7 +83,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools
 
-- [bosquet](https://github.com/BrewLLM/bosquet) - LLMOps for Large Language Model based applications
+- [Promptify](https://github.com/promptslab/Promptify) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - An utility / tookit for Prompt engineering
+- [bosquet](https://github.com/BrewLLM/bosquet) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/BrewLLM/bosquet?style=social) - LLMOps for Large Language Model based applications
 
 ## Awesome
 
