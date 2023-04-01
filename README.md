@@ -2,13 +2,32 @@
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome series for LLMOps</p>
 
-## Contents
+## Table of Contents
 
 - [Prompt Engineering](#prompt-engineering)
 - [Models](#models)
 - [Optimization](#optimization)
 - [Tools](#tools)
 - [Awesome](#awesome)
+
+## What is LLMOps?
+
+LLMOps is a part of MLOps practices, specialized form of MLOps that focuses on managing the entire lifecycle of large language models(LLM).
+
+Starting in 2021, as LLMs evolved rapidly and the technology matured, we began to focus on practices for managing LLMs efficiently, and LLMOps, which are adaptations of traditional MLOps practices to LLMs, began to be talked about.
+
+### LLMOps vs MLOps
+
+| | LLMOps | MLOps |
+|-|--------|-------|
+| Definition | Tools and infrastructure specifically for the development and deployment of large language models | Tools and infrastructure for general machine learning workflows |
+| Focus | Unique requirements and challenges of large language models | General machine learning workflows | Examples of offerings	Foundation model fine-tuning, no-code LLM deployment, GPU access and optimization, prompt experimentation, prompt chaining, data synthesis and augmentation	Model versioning, automated testing, model monitoring, deployment automation, data pipeline management |
+| Key technologies | Language model, Transformers library, human-in-the-loop annotation platforms | Kubeflow, MLflow, TensorFlow Extended |
+| Key skills | NLP expertise, knowledge of large language models, data management for text data | Data engineering, DevOps, Software engineering, Machine learning expertise |
+| Key challenges | Managing and labeling large amounts of text data, fine-tuning foundation models for specific tasks, ensuring fairness and ethics in language models | Managing complex data pipelines, ensuring model interpretability and explainability, addressing model bias and fairness |
+| Industry adoption | Emerging, with a growing number of startups and companies focusing on LLMOps | Established, with a large ecosystem of tools and frameworks available
+| Future outlook | LLMOps is expected to become an increasingly important area of study as large language models become more prevalent and powerful | MLOps will continue to be a critical component of the machine learning industry, with a focus on improving efficiency, scalability, and model reliability |
+
 
 ## Prompt Engineering
 
@@ -19,7 +38,7 @@
 - [Learn Prompting](https://learnprompting.org/)
 - [Blog: Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 - [Blog: Prompt Leaking](https://learnprompting.org/docs/prompt_hacking/leaking)
-- [Paper: https://aclanthology.org/2021.acl-long.353.pdf](https://aclanthology.org/2021.acl-long.353.pdf)
+- [Paper: Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
 
 ## Models
 
