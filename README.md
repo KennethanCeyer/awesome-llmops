@@ -1,6 +1,6 @@
 <h1 align="center">Awesome LLMOps</h1>
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
-<p align="center">Awesome series for LLMOps</p>
+<p align="center"><img src="./cover.png" height="240" alt="Awesome LLMOps - Awesome list of LLMOps" /></p>
 
 ## Table of Contents
 
