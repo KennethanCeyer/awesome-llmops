@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [What is LLMOps?](#what-is-llmops)
 - [Prompt Engineering](#prompt-engineering)
 - [Models](#models)
 - [Optimization](#optimization)
