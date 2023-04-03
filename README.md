@@ -62,6 +62,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Bloom (176B)               | 176 billion       | 2022              |
 | Bard                       | Not yet announced | 2023              |
 | GPT 4                      | Not yet announced | 2023              |
+| AlphaCode (41.4B)          | 41.4 billion      | 2022              |
 | Chinchilla (70B)           | 70 billion        | 2022              |
 | Sparrow (70B)              | 70 billion        | 2022              |
 | PaLM (540B)                | 540 billion       | 2022              |
