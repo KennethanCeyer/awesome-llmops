@@ -71,7 +71,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | LLaMA (65B)                | 65 billion        | 2023              |
 | Stanford Alpaca (7B)       | 7 billion         | 2023              |
 | GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
-| ChatGPT Plus (175B)        | 175 billion       | 2023              |
+| BloombergGPT               | 50 billion        | 2023              |
 
 ## Optimization
 
