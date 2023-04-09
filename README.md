@@ -54,6 +54,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Megatron-Turing NLG (530B) | 530 billion       | 2021              |
 | T0 (11B)                   | 11 billion        | 2021              |
 | Macaw (11B)                | 11 billion        | 2021              |
+| GLaM (1.2T)                | 1.2 trillion      | 2021              |
 | T5 FLAN (540B)             | 540 billion       | 2022              |
 | OPT-175B (175B)            | 175 billion       | 2022              |
 | ChatGPT (175B)             | 175 billion       | 2022              |
