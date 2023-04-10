@@ -88,6 +88,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Promptify](https://github.com/promptslab/Promptify) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - An utility / tookit for Prompt engineering.
 - [dalai](https://github.com/cocktailpeanut/dalai) - ![Repo stars of hwchase17/langchain](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
 - [langchain](https://github.com/hwchase17/langchain) - ![Repo stars of hwchase17/langchain](https://img.shields.io/github/stars/hwchase17/langchain?style=social) - The library which assists in the development of applications with LLM.
+- [deeplake](https://github.com/activeloopai/deeplake) - ![Repo stars of hwchase17/langchain](https://img.shields.io/github/stars/activeloopai/deeplake?style=social) - Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets.
 - [alpaca-lora](https://github.com/tloen/alpaca-lora) - ![Repo stars of hwchase17/langchain](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
 - [bosquet](https://github.com/BrewLLM/bosquet) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/BrewLLM/bosquet?style=social) - LLMOps for Large Language Model based applications.
 
