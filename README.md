@@ -97,7 +97,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## RLHF
 
-- [openai/evals](https://github.com/openai/evals) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+- [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 
 ## Awesome
 
