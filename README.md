@@ -74,6 +74,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Stanford Alpaca (7B)       | 7 billion         | 2023              |
 | GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
 | BloombergGPT               | 50 billion        | 2023              |
+| Dolly                      | 6 billion         | 2023              |
 
 ## Optimization
 
