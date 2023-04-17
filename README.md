@@ -1,4 +1,4 @@
-<h1 align="center">Awesome LLMOps</h1>
+<h1 id="top" align="center">Awesome LLMOps</h1>
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center"><img src="./cover.png" height="240" alt="Awesome LLMOps - Awesome list of LLMOps" /></p>
 
@@ -31,7 +31,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Industry adoption | Emerging, with a growing number of startups and companies focusing on LLMOps | Established, with a large ecosystem of tools and frameworks available
 | Future outlook | LLMOps is expected to become an increasingly important area of study as large language models become more prevalent and powerful | MLOps will continue to be a critical component of the machine learning industry, with a focus on improving efficiency, scalability, and model reliability |
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Prompt Engineering
 
@@ -44,7 +44,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Blog: Prompt Leaking](https://learnprompting.org/docs/prompt_hacking/leaking)
 - [Paper: Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Models
 
@@ -79,7 +79,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Optimization
 
@@ -90,7 +90,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Paper: LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 - [Gist: Script to decompose/recompose LLAMA LLM models with different number of shards](https://gist.github.com/benob/4850a0210b01672175942203aa36d300)
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Tools
 
@@ -107,13 +107,13 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [bosquet](https://github.com/BrewLLM/bosquet) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/BrewLLM/bosquet?style=social) - LLMOps for Large Language Model based applications.
 - [llama_index](https://github.com/jerryjliu/llama_index) - ![Repo stars of jerryjliu/llama_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## RLHF
 
 - [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Awesome
 
@@ -123,7 +123,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [tensorchord/awesome-open-source-llmops](https://github.com/tensorchord/awesome-open-source-llmops)
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
 
 ## Contributing
 
@@ -143,4 +143,4 @@ We welcome contributions to the Awesome LLMOps list! If you'd like to suggest an
 
 We appreciate your contributions and thank you for helping to make the Awesome LLMOps list even more awesome!
 
-[🔝 Go to top](#top)
+[:arrow_up: Go to top](#top)
