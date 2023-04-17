@@ -87,6 +87,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools
 
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - ![Repo stars of microsoft/DeepSpeed](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social) - A deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [LMFlow](https://github.com/OptimalScale/LMFlow) - ![Repo stars of OptimalScale/LMFlow](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
 - [Promptify](https://github.com/promptslab/Promptify) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - An utility / tookit for Prompt engineering.
 - [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
 - [dalai](https://github.com/cocktailpeanut/dalai) - ![Repo stars of cocktailpeanut/dalai](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
