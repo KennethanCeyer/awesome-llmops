@@ -31,6 +31,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Industry adoption | Emerging, with a growing number of startups and companies focusing on LLMOps | Established, with a large ecosystem of tools and frameworks available
 | Future outlook | LLMOps is expected to become an increasingly important area of study as large language models become more prevalent and powerful | MLOps will continue to be a critical component of the machine learning industry, with a focus on improving efficiency, scalability, and model reliability |
 
+[🔝 Go to top](#top)
 
 ## Prompt Engineering
 
@@ -42,6 +43,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Blog: Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 - [Blog: Prompt Leaking](https://learnprompting.org/docs/prompt_hacking/leaking)
 - [Paper: Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
+
+[🔝 Go to top](#top)
 
 ## Models
 
@@ -76,6 +79,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 
+[🔝 Go to top](#top)
+
 ## Optimization
 
 - [Blog: A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
@@ -84,6 +89,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Blog: How To Fine-Tune the Alpaca Model For Any Language | ChatGPT Alternative](https://medium.com/@martin-thissen/how-to-fine-tune-the-alpaca-model-for-any-language-chatgpt-alternative-370f63753f94)
 - [Paper: LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 - [Gist: Script to decompose/recompose LLAMA LLM models with different number of shards](https://gist.github.com/benob/4850a0210b01672175942203aa36d300)
+
+[🔝 Go to top](#top)
 
 ## Tools
 
@@ -100,9 +107,13 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [bosquet](https://github.com/BrewLLM/bosquet) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/BrewLLM/bosquet?style=social) - LLMOps for Large Language Model based applications.
 - [llama_index](https://github.com/jerryjliu/llama_index) - ![Repo stars of jerryjliu/llama_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 
+[🔝 Go to top](#top)
+
 ## RLHF
 
 - [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+
+[🔝 Go to top](#top)
 
 ## Awesome
 
@@ -111,3 +122,25 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [tensorchord/awesome-open-source-llmops](https://github.com/tensorchord/awesome-open-source-llmops)
+
+[🔝 Go to top](#top)
+
+## Contributing
+
+We welcome contributions to the Awesome LLMOps list! If you'd like to suggest an addition or make a correction, please follow these guidelines:
+
+1. Fork the repository and create a new branch for your contribution.
+2. Make your changes to the README.md file.
+3. Ensure that your contribution is relevant to the topic of LLMOps.
+4. Use the following format to add your contribution:
+  ```markdown
+  [Name of Resource](Link to Resource) - Description of resource
+  ```
+5. Add your contribution in alphabetical order within its category.
+6. Make sure that your contribution is not already listed.
+7. Provide a brief description of the resource and explain why it is relevant to LLMOps.
+8. Create a pull request with a clear title and description of your changes.
+
+We appreciate your contributions and thank you for helping to make the Awesome LLMOps list even more awesome!
+
+[🔝 Go to top](#top)
