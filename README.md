@@ -12,6 +12,7 @@
 - [Tools](#tools)
 - [RLHF](#rlhf)
 - [Awesome](#awesome)
+- [Contributing](#contributing)
 
 ## What is LLMOps?
 
