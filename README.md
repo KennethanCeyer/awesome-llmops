@@ -100,8 +100,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - ![Repo stars of microsoft/DeepSpeed](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social) - A deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - ![Repo stars of OptimalScale/LMFlow](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
 - [Promptify](https://github.com/promptslab/Promptify) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/promptslab/Promptify?style=social) - An utility / tookit for Prompt engineering.
-- [Jarvis](https://github.com/microsoft/JARVIS) - ![Repo stars of microsoft/JARVIS](https://img.shields.io/github/stars/microsoft/JARVIS?style=social) - A system to connect LLMs with ML community, a composite model connector via the LLM interface..
-- [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
+- [Jarvis](https://github.com/microsoft/JARVIS) - ![Repo stars of microsoft/JARVIS](https://img.shields.io/github/stars/microsoft/JARVIS?style=social) - A system to connect LLMs with ML community, a composite model connector via the LLM interface.
 - [dalai](https://github.com/cocktailpeanut/dalai) - ![Repo stars of cocktailpeanut/dalai](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
 - [haystack](https://github.com/deepset-ai/haystack) - ![Repo stars of deepset-ai/haystack](https://img.shields.io/github/stars/deepset-ai/haystack?style=social) -an open source NLP framework to interact with the data using Transformer models and LLMs.
 - [langchain](https://github.com/hwchase17/langchain) - ![Repo stars of hwchase17/langchain](https://img.shields.io/github/stars/hwchase17/langchain?style=social) - The library which assists in the development of applications with LLM.
@@ -115,7 +114,9 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## RLHF
 
-- [openai/evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+- [evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+- [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
+- [trlx](https://github.com/lucidrains/PaLM-rlhf-pytorch) - ![Repo stars of lucidrains/PaLM-rlhf-pytorch](https://img.shields.io/github/stars/lucidrains/PaLM-rlhf-pytorch?style=social) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.
 
 [:arrow_up: Go to top](#top)
 
@@ -126,6 +127,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [tensorchord/awesome-open-source-llmops](https://github.com/tensorchord/awesome-open-source-llmops)
+- [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF)
 
 [:arrow_up: Go to top](#top)
 
