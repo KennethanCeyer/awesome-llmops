@@ -116,7 +116,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 - [evals](https://github.com/openai/evals) - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 - [trlx](https://github.com/CarperAI/trlx) - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
-- [trlx](https://github.com/lucidrains/PaLM-rlhf-pytorch) - ![Repo stars of lucidrains/PaLM-rlhf-pytorch](https://img.shields.io/github/stars/lucidrains/PaLM-rlhf-pytorch?style=social) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.
+- [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - ![Repo stars of lucidrains/PaLM-rlhf-pytorch](https://img.shields.io/github/stars/lucidrains/PaLM-rlhf-pytorch?style=social) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.
 
 [:arrow_up: Go to top](#top)
 
