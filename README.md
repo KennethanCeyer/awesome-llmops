@@ -74,11 +74,13 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | PaLM (540B)                | 540 billion       | 2022              |
 | NLLB (54.5B)               | 54.5 billion      | 2022              |
 | UL2 (20B)                  | 20 billion        | 2022              |
+| Jurassic-1 (178B)          | 178 billion       | 2022              |
 | LLaMA (65B)                | 65 billion        | 2023              |
 | Stanford Alpaca (7B)       | 7 billion         | 2023              |
 | GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
+| Jurassic-2                 | Not yet announced | 2023              |
 
 [:arrow_up: Go to top](#top)
 
