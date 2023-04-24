@@ -73,6 +73,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Sparrow (70B)              | 70 billion        | 2022              |
 | PaLM (540B)                | 540 billion       | 2022              |
 | NLLB (54.5B)               | 54.5 billion      | 2022              |
+| Galactica (120B)           | 120 billion       | 2022              |
 | UL2 (20B)                  | 20 billion        | 2022              |
 | Jurassic-1 (178B)          | 178 billion       | 2022              |
 | LLaMA (65B)                | 65 billion        | 2023              |
