@@ -82,6 +82,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | BloombergGPT               | 50 billion        | 2023              |
 | Dolly                      | 6 billion         | 2023              |
 | Jurassic-2                 | Not yet announced | 2023              |
+| OpenAssistant LLaMa        | 30 billion        | 2023              |
 
 [:arrow_up: Go to top](#top)
 
