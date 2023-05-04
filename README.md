@@ -115,7 +115,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [bosquet](https://github.com/BrewLLM/bosquet) - ![Repo stars of BrewLLM/bosquet](https://img.shields.io/github/stars/BrewLLM/bosquet?style=social) - LLMOps for Large Language Model based applications.
 - [llama_index](https://github.com/jerryjliu/llama_index) - ![Repo stars of jerryjliu/llama_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 - [gradio](https://github.com/gradio-app/gradio) - ![Repo stars of gradio-app/gradio](https://img.shields.io/github/stars/gradio-app/gradio?style=social) - An UI helper for the machine learning model.
-- [](https://github.com/domeccleston/sharegpt) - ![Repo stars of domeccleston/sharegpt](https://img.shields.io/github/stars/domeccleston/sharegpt?style=social) - An open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.
+- [sharegpt](https://github.com/domeccleston/sharegpt) - ![Repo stars of domeccleston/sharegpt](https://img.shields.io/github/stars/domeccleston/sharegpt?style=social) - An open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.
 
 [:arrow_up: Go to top](#top)
 
