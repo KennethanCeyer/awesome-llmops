@@ -9,7 +9,8 @@
 - [Prompt Engineering](#prompt-engineering)
 - [Models](#models)
 - [Optimization](#optimization)
-- [Tools](#tools)
+- [Tools (GitHub)](#tools-github)
+- [Tools (Other)](#tools-other)
 - [RLHF](#rlhf)
 - [Awesome](#awesome)
 - [Contributing](#contributing)
@@ -49,40 +50,43 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Models
 
-| Name                       | Parameter size    | Announcement date |
-|----------------------------|-------------------|-------------------|
-| BERT-Large (336M)          | 336 million       | 2018              |
-| T5 (11B)                   | 11 billion        | 2020              |
-| Gopher (280B)              | 280 billion       | 2021              |
-| GPT-J (6B)                 | 6 billion         | 2021              |
-| LaMDA (137B)               | 137 billion       | 2021              |
-| Megatron-Turing NLG (530B) | 530 billion       | 2021              |
-| T0 (11B)                   | 11 billion        | 2021              |
-| Macaw (11B)                | 11 billion        | 2021              |
-| GLaM (1.2T)                | 1.2 trillion      | 2021              |
-| T5 FLAN (540B)             | 540 billion       | 2022              |
-| OPT-175B (175B)            | 175 billion       | 2022              |
-| ChatGPT (175B)             | 175 billion       | 2022              |
-| GPT 3.5 (175B)             | 175 billion       | 2022              |
-| AlexaTM (20B)              | 20 billion        | 2022              |
-| Bloom (176B)               | 176 billion       | 2022              |
-| Bard                       | Not yet announced | 2023              |
-| GPT 4                      | Not yet announced | 2023              |
-| AlphaCode (41.4B)          | 41.4 billion      | 2022              |
-| Chinchilla (70B)           | 70 billion        | 2022              |
-| Sparrow (70B)              | 70 billion        | 2022              |
-| PaLM (540B)                | 540 billion       | 2022              |
-| NLLB (54.5B)               | 54.5 billion      | 2022              |
-| Galactica (120B)           | 120 billion       | 2022              |
-| UL2 (20B)                  | 20 billion        | 2022              |
-| Jurassic-1 (178B)          | 178 billion       | 2022              |
-| LLaMA (65B)                | 65 billion        | 2023              |
-| Stanford Alpaca (7B)       | 7 billion         | 2023              |
-| GPT-NeoX 2.0 (20B)         | 20 billion        | 2023              |
-| BloombergGPT               | 50 billion        | 2023              |
-| Dolly                      | 6 billion         | 2023              |
-| Jurassic-2                 | Not yet announced | 2023              |
-| OpenAssistant LLaMa        | 30 billion        | 2023              |
+| Name                       | Parameter size                        | Announcement date |
+|----------------------------|---------------------------------------|-------------------|
+| BERT-Large (336M)          | 336 million                           | 2018              |
+| T5 (11B)                   | 11 billion                            | 2020              |
+| Gopher (280B)              | 280 billion                           | 2021              |
+| GPT-J (6B)                 | 6 billion                             | 2021              |
+| LaMDA (137B)               | 137 billion                           | 2021              |
+| Megatron-Turing NLG (530B) | 530 billion                           | 2021              |
+| T0 (11B)                   | 11 billion                            | 2021              |
+| Macaw (11B)                | 11 billion                            | 2021              |
+| GLaM (1.2T)                | 1.2 trillion                          | 2021              |
+| T5 FLAN (540B)             | 540 billion                           | 2022              |
+| OPT-175B (175B)            | 175 billion                           | 2022              |
+| ChatGPT (175B)             | 175 billion                           | 2022              |
+| GPT 3.5 (175B)             | 175 billion                           | 2022              |
+| AlexaTM (20B)              | 20 billion                            | 2022              |
+| Bloom (176B)               | 176 billion                           | 2022              |
+| Bard                       | Not yet announced                     | 2023              |
+| GPT 4                      | Not yet announced                     | 2023              |
+| AlphaCode (41.4B)          | 41.4 billion                          | 2022              |
+| Chinchilla (70B)           | 70 billion                            | 2022              |
+| Sparrow (70B)              | 70 billion                            | 2022              |
+| PaLM (540B)                | 540 billion                           | 2022              |
+| NLLB (54.5B)               | 54.5 billion                          | 2022              |
+| Galactica (120B)           | 120 billion                           | 2022              |
+| UL2 (20B)                  | 20 billion                            | 2022              |
+| Jurassic-1 (178B)          | 178 billion                           | 2022              |
+| LLaMA (65B)                | 65 billion                            | 2023              |
+| Stanford Alpaca (7B)       | 7 billion                             | 2023              |
+| GPT-NeoX 2.0 (20B)         | 20 billion                            | 2023              |
+| BloombergGPT               | 50 billion                            | 2023              |
+| Dolly                      | 6 billion                             | 2023              |
+| Jurassic-2                 | Not yet announced                     | 2023              |
+| OpenAssistant LLaMa        | 30 billion                            | 2023              |
+| Koala                      | 13 billion                            | 2023              |
+| Vicuna                     | 13 billion                            | 2023              |
+| PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
 
 [:arrow_up: Go to top](#top)
 
@@ -97,7 +101,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 [:arrow_up: Go to top](#top)
 
-## Tools
+## Tools (GitHub)
 
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ![Repo stars of tatsu-lab/stanford_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
 - [Dolly](https://github.com/databrickslabs/dolly) - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
@@ -116,6 +120,12 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [llama_index](https://github.com/jerryjliu/llama_index) - ![Repo stars of jerryjliu/llama_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 - [gradio](https://github.com/gradio-app/gradio) - ![Repo stars of gradio-app/gradio](https://img.shields.io/github/stars/gradio-app/gradio?style=social) - An UI helper for the machine learning model.
 - [sharegpt](https://github.com/domeccleston/sharegpt) - ![Repo stars of domeccleston/sharegpt](https://img.shields.io/github/stars/domeccleston/sharegpt?style=social) - An open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.
+
+[:arrow_up: Go to top](#top)
+
+## Tools (Other)
+
+- [Perspective API](https://perspectiveapi.com/) - A tool that can help mitigate toxicity and ensure healthy dialogue online.
 
 [:arrow_up: Go to top](#top)
 
