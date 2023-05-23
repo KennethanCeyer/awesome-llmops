@@ -87,6 +87,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Koala                      | 13 billion                            | 2023              |
 | Vicuna                     | 13 billion                            | 2023              |
 | PaLM2                      | Not yet announced, Smaller than PaLM1 | 2023              |
+| LIMA                       | 65 billion                            | 2023              |
 
 [:arrow_up: Go to top](#top)
 
