@@ -99,6 +99,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Solar                      | 10.7 billion                          | 2024              |
 | Gemma                      | 7 billion                             | 2024              |
 | Grok-1.5                   | Not yet announced                     | 2024              |
+| DBRX                       | 132 billion                           | 2024              |
 
 [:arrow_up: Go to top](#top)
 
