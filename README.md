@@ -136,6 +136,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [sharegpt](https://github.com/domeccleston/sharegpt) - ![Repo stars of domeccleston/sharegpt](https://img.shields.io/github/stars/domeccleston/sharegpt?style=social) - An open-source Chrome Extension for you to share your wildest ChatGPT conversations with one click.
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - ![Repo stars of keras-team/keras-nlp](https://img.shields.io/github/stars/keras-team/keras-nlp?style=social) - A natural language processing library that supports users through their entire development cycle.
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
+- [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
 
 [:arrow_up: Go to top](#top)
 
