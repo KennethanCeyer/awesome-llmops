@@ -95,9 +95,10 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 | Google Gemini              | Not yet announced                     | 2023              |
 | Microsoft Phi-2            | 2.7 billion                           | 2023              |
 | Grok-0                     | 33 billion                            | 2023              |
+| Grok-1                     | 314 billion                           | 2023              |
 | Solar                      | 10.7 billion                          | 2024              |
 | Gemma                      | 7 billion                             | 2024              |
-| Grok-1                     | 314 billion                           | 2024              |
+| Grok-1.5                   | Not yet announced                     | 2024              |
 
 [:arrow_up: Go to top](#top)
 
