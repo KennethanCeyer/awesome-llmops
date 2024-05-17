@@ -147,6 +147,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 - [PaLM2 API](https://developers.generativeai.google/) - An API service that makes PaLM2, Large Language Models (LLMs), available to Google Cloud Vertex AI.
 - [Perspective API](https://perspectiveapi.com/) - A tool that can help mitigate toxicity and ensure healthy dialogue online.
+- [Wallaroo.AI](https://wallaroo.ai/) - Production AI platform for deploying, managing, and observing models at scale across any enviornment from cloud to edge. 
 
 [:arrow_up: Go to top](#top)
 
