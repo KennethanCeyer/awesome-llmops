@@ -52,6 +52,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 | Name                                      | Parameter Size                     | Announcement Date   | Provider                                      |
 |-------------------------------------------|------------------------------------|---------------------|-----------------------------------------------|
+| Gemma-3                                   | 1B, 4B, 12B, 27B                   | March 2025          | Google                                        |
 | GPT-4.5                                   | Undisclosed                        | Feburary 2025       | OpenAI                                        |
 | Grok‑3                                    | Undisclosed                        | Feburary 2025       | xAI                                           |
 | Gemini-2                                  | Undisclosed                        | Feburary 2025       | Google                                        |
