@@ -162,6 +162,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - ![Repo stars of keras-team/keras-nlp](https://img.shields.io/github/stars/keras-team/keras-nlp?style=social) - A natural language processing library that supports users through their entire development cycle.
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
 - [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
+- [Mastra AI](https://github.com/mastra-ai/mastra) - ![Repo stars of mastra-ai/mastra](https://img.shields.io/github/starsmastra-ai/mastra?style=social) - a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 [:arrow_up: Go to top](#top)
 
