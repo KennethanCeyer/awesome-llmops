@@ -269,6 +269,7 @@
 
 ### Observation
 
+* **[agenttrace](https://github.com/luoyuctl/agenttrace)**: Local-first TUI for AI coding-agent session logs, tracking cost, tokens, latency, tool failures, diffs, reports, and CI gates across Codex, Claude Code, Gemini CLI, Aider, Cursor, and OpenCode. ![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/luoyuctl/agenttrace?color=green) ![LastCommit](https://img.shields.io/github/last-commit/luoyuctl/agenttrace?color=green)
 * **[OpenLLMetry](https://github.com/traceloop/openllmetry)**: Open-source observability for your LLM application, based on OpenTelemetry. ![Stars](https://img.shields.io/github/stars/traceloop/openllmetry.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/traceloop/openllmetry?color=green) ![LastCommit](https://img.shields.io/github/last-commit/traceloop/openllmetry?color=green)
 * **[wandb](https://github.com/wandb/wandb)**: The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. ![Stars](https://img.shields.io/github/stars/wandb/wandb.svg?style=flat&color=green) ![Contributors](https://img.shields.io/github/contributors/wandb/wandb?color=green) ![LastCommit](https://img.shields.io/github/last-commit/wandb/wandb?color=green)
 
