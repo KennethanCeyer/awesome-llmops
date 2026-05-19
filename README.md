@@ -139,6 +139,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools (GitHub)
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - ![Repo stars of luoyuctl/agenttrace](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local-first TUI for AI coding-agent session logs, tracking cost, tokens, latency, tool failures, diffs, reports, and CI gates across Codex, Claude Code, Gemini CLI, Aider, Cursor, and OpenCode.
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ![Repo stars of tatsu-lab/stanford_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
 - [LoRA](https://github.com/microsoft/LoRA) - ![Repo stars of microsoft/LoRA](https://img.shields.io/github/stars/microsoft/LoRA?style=social) - An implementation of "LoRA: Low-Rank Adaptation of Large Language Models".
 - [Dolly](https://github.com/databrickslabs/dolly) - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
