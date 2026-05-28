@@ -162,6 +162,10 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - ![Repo stars of keras-team/keras-nlp](https://img.shields.io/github/stars/keras-team/keras-nlp?style=social) - A natural language processing library that supports users through their entire development cycle.
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
 - [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
+- [traceAI](https://github.com/future-agi/traceAI) - ![Repo stars of future-agi/traceAI](https://img.shields.io/github/stars/future-agi/traceAI?style=social) - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - ![Repo stars of future-agi/ai-evaluation](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social) - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
+- [agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk) - ![Repo stars of future-agi/agent-command-center-sdk](https://img.shields.io/github/stars/future-agi/agent-command-center-sdk?style=social) - OpenAI-compatible gateway SDK for routing AI agent requests across providers.
+- [future-agi](https://github.com/future-agi/future-agi) - ![Repo stars of future-agi/future-agi](https://img.shields.io/github/stars/future-agi/future-agi?style=social) - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
 
 [:arrow_up: Go to top](#top)
 
