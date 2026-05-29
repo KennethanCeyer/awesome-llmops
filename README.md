@@ -139,6 +139,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools (GitHub)
 
+- [AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) - ![Repo stars of SSC-STUDIO/Ai-Model-Gateway](https://img.shields.io/github/stars/SSC-STUDIO/Ai-Model-Gateway?style=social) - Self-hosted LLM operations gateway for OpenAI/Anthropic-compatible routing, provider fallback, telemetry, config publishing, and rollback.
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ![Repo stars of tatsu-lab/stanford_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
 - [LoRA](https://github.com/microsoft/LoRA) - ![Repo stars of microsoft/LoRA](https://img.shields.io/github/stars/microsoft/LoRA?style=social) - An implementation of "LoRA: Low-Rank Adaptation of Large Language Models".
 - [Dolly](https://github.com/databrickslabs/dolly) - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
