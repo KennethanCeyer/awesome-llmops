@@ -170,6 +170,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [PaLM2 API](https://developers.generativeai.google/) - An API service that makes PaLM2, Large Language Models (LLMs), available to Google Cloud Vertex AI.
 - [Perspective API](https://perspectiveapi.com/) - A tool that can help mitigate toxicity and ensure healthy dialogue online.
 - [LangSmith](https://langsmith.io/) - A monitoring and debugging platform by the LangChain team that provides systematic performance tracking, error analysis, and logging for LLM-based applications.
+- [Inference Labs](https://inference-labs.com) - Vendor-neutral routing and evaluation API for LLM apps across OpenAI/Azure, Anthropic, Google, and Bedrock with policy-based selection, caching, and trace-to-dataset export.
 - [OpenLLM (by BentoML)](https://docs.bentoml.org/en/latest/openllm/) - A deployment tool from BentoML that simplifies serving various large language models in production environments.
 - [PromptLayer](https://promptlayer.com/) - A tool for tracking and analyzing prompt engineering experiments, helping optimize prompt performance and outcomes.
 
