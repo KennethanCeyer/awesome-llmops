@@ -190,6 +190,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [tensorchord/awesome-open-source-llmops](https://github.com/tensorchord/awesome-open-source-llmops)
+- [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway)
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF)
 
 [:arrow_up: Go to top](#top)
