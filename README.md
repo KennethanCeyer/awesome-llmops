@@ -167,6 +167,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools (Other)
 
+- [DaoXE](https://daoxe.com/) - Multi-model multi-protocol AI API gateway for Chat Completions, Responses, Anthropic Messages, and image-compatible endpoints.
 - [PaLM2 API](https://developers.generativeai.google/) - An API service that makes PaLM2, Large Language Models (LLMs), available to Google Cloud Vertex AI.
 - [Perspective API](https://perspectiveapi.com/) - A tool that can help mitigate toxicity and ensure healthy dialogue online.
 - [LangSmith](https://langsmith.io/) - A monitoring and debugging platform by the LangChain team that provides systematic performance tracking, error analysis, and logging for LLM-based applications.
