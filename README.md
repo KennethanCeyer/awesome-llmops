@@ -163,6 +163,8 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
 - [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
 
+- [KV Cache Store](https://kvcachestore.com/) - Hosted KV-cache artifact registry plus an open-source Rust CLI. Precompute, verify, quantize, and share attention states across RAG and long-context prompts to cut prefill cost and latency. ([CLI source](https://github.com/kvcachestore/kvcdn))
+
 [:arrow_up: Go to top](#top)
 
 ## Tools (Other)
