@@ -162,6 +162,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - ![Repo stars of keras-team/keras-nlp](https://img.shields.io/github/stars/keras-team/keras-nlp?style=social) - A natural language processing library that supports users through their entire development cycle.
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
 - [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
+- [codee3-standard](https://github.com/Codee3Labs/codee3-standard) - Open, vendor-neutral specification for authority-graded repository knowledge: declares which docs/ADRs/agent-instruction files may be relied on and how fresh they are, with a reference implementation that installs mechanically-checkable guards (structure, versioning, references, freshness) into CI and routes ten AI coding tools (Claude Code, Cursor, Copilot, Windsurf, etc.) to one governed source.
 
 [:arrow_up: Go to top](#top)
 
