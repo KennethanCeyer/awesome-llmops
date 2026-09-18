@@ -167,6 +167,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 
 ## Tools (Other)
 
+- [Apica AI Observability](https://www.apica.io/ai-llm-observability/) - Purpose-built observability and cost governance for LLMs and agentic workflows with pipeline-first telemetry filtering and tracing.
 - [PaLM2 API](https://developers.generativeai.google/) - An API service that makes PaLM2, Large Language Models (LLMs), available to Google Cloud Vertex AI.
 - [Perspective API](https://perspectiveapi.com/) - A tool that can help mitigate toxicity and ensure healthy dialogue online.
 - [LangSmith](https://langsmith.io/) - A monitoring and debugging platform by the LangChain team that provides systematic performance tracking, error analysis, and logging for LLM-based applications.
