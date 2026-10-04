@@ -172,6 +172,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [LangSmith](https://langsmith.io/) - A monitoring and debugging platform by the LangChain team that provides systematic performance tracking, error analysis, and logging for LLM-based applications.
 - [OpenLLM (by BentoML)](https://docs.bentoml.org/en/latest/openllm/) - A deployment tool from BentoML that simplifies serving various large language models in production environments.
 - [PromptLayer](https://promptlayer.com/) - A tool for tracking and analyzing prompt engineering experiments, helping optimize prompt performance and outcomes.
+- [telemetry.dev](https://telemetry.dev/) - OpenTelemetry-native observability for LLM applications and AI agents, with traces of model calls and tool steps, token usage, cost, latency, and errors.
 
 [:arrow_up: Go to top](#top)
 
