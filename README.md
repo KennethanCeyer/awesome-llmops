@@ -162,6 +162,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [keras-nlp](https://github.com/keras-team/keras-nlp) - ![Repo stars of keras-team/keras-nlp](https://img.shields.io/github/stars/keras-team/keras-nlp?style=social) - A natural language processing library that supports users through their entire development cycle.
 - [Snowkel AI](https://github.com/snorkel-team/snorkel) - ![Repo stars of snorkel-team/snorkel](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - The data platform for foundation models.
 - [promptflow](https://github.com/microsoft/promptflow) - ![Repo stars of microsoft/promptflow](https://img.shields.io/github/stars/microsoft/promptflow?style=social) - A toolkit that simplifies the development of LLM-based AI applications, from ideation to deployment.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) - ![Repo stars of evalshift/evalshift-cli](https://img.shields.io/github/stars/evalshift/evalshift-cli?style=social) - Open-source LLM migration and regression testing for AI agents: replays a golden suite on a baseline and a candidate model, scores outputs with structural, semantic, LLM-as-judge and tool-call evaluators, and gates pull requests on regressions.
 
 [:arrow_up: Go to top](#top)
 
